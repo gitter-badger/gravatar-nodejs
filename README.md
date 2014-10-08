@@ -1,4 +1,5 @@
 ## Gravatar Node.js
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/fadib/gravatar-nodejs?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Node.js Gravatar URL Generator. Support Image and Profile Requests
 
